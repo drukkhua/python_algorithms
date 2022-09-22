@@ -2,6 +2,8 @@
 19/07/2022
 There is a horse on the figured board, determine whether the horse can get to a given cell in 2 moves.
 '''
+
+
 RULES_1 = 'ABCDEFGH'
 RULES_2 = '87654321'
 new_game_rules = '''Let's play my chess-game. ©2022 Aleksieiev Valentyn.
