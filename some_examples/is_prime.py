@@ -1,5 +1,5 @@
 '''Aleksieiev Valentyn
-26/07/2022
+26/07/2021
 Create the function is_prime, which takes 1 argument - a number from 0 to 1000,
 and returns True if it is simple, and False - otherwise. 
 '''
