@@ -1,5 +1,5 @@
 '''Aleksieiev Valentyn
-15/07/2022
+15/07/2021
 In chess, queens can move any number of sqaueres horizontally, vertically or diagonally.
 Given the location of your queen and your opponents' queen, determine whethere or not
 you're able to capture your opponents' queen. Your location and your opponents' location
