@@ -1,4 +1,4 @@
-'''Aleksieiev Valentyn, 30/06/2022
+'''Aleksieiev Valentyn, 30/06/2021
 Library with 2 new functions for check variables types in input console
 '''
 
