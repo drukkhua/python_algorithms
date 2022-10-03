@@ -1,5 +1,5 @@
 '''Aleksieiev Valentyn
-19/07/2022
+19/07/2021
 There is a horse on the figured board, determine whether the horse can get to a given cell in 2 moves.
 '''
 
