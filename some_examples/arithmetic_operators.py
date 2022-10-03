@@ -1,5 +1,5 @@
 '''Aleksieiev Valentyn
-22/07/2022
+22/07/2021
 Create an arithmetic function that takes 3 arguments: the first 2 are numbers,
 the third is the operation to be performed on them.
 If the third argument is +, add them;
